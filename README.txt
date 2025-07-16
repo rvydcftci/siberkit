@@ -45,4 +45,4 @@ Bu proje eğitim amaçlıdır.
 Lütfen yasal sınırlar içinde kullanın.
 
 👨‍💻 Geliştirici
-Proje Sahibi: Siber Kit Ekibi
+IEEE Fırat Üniversitesi Öğrenci Topluluğu Siber Güvenlik Proje Ekibi
