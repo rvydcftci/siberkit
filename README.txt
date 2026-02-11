@@ -1,43 +1,34 @@
 # 🛡️ SiberKit
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
-![OS](https://img.shields.io/badge/OS-Linux-black?style=for-the-badge)
-![Field](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge)
-![Purpose](https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge)
-![IEEE](https://img.shields.io/badge/IEEE-Student%20Project-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IEEE-Student%20Project-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 About
-
-**SiberKit**, Linux üzerinde çalışan, temel **siber güvenlik araçlarını** tek bir çatı altında toplayan **modüler bir Python uygulamasıdır**.  
-Eğitim ve güvenlik farkındalığı amacıyla geliştirilmiştir.
-
----
-
-## 🚀 Features
-
-- 📡 Network scanning  
-- 🔍 Port & service scanning  
-- 🔑 SSH brute force testing  
-- 🌐 DNS lookup  
-- 📁 Directory scanning  
-- 💥 DoS simulation  
-- 🛠️ MAC address changer  
+## 🔍 About
+🐧 Linux üzerinde çalışan,  
+🧩 modüler yapıya sahip,  
+🛡️ temel siber güvenlik araçlarını bir araya getiren **Python tabanlı** bir eğitim projesi.
 
 ---
 
-## ⚙️ Installation & Usage
+## 🚀 Modules
+📡 Network Scan  
+🔍 Port & Service Scan  
+🔑 SSH Bruteforce  
+🌐 DNS Lookup  
+📁 Directory Scan  
+💥 DoS Simulation  
+🛠️ MAC Changer  
 
+---
+
+## ⚙️ Usage
 ```bash
 pip install -r requirements.txt
 python main.py
-
-⚠️ Legal Notice
-
-This project is for educational purposes only.
-Use only on authorized systems.
-
-👨‍💻 Developer
-IEEE Fırat University
-Cyber Security Project Team
