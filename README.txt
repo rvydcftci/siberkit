@@ -1,48 +1,43 @@
 # 🛡️ SiberKit
 
-SiberKit, Linux üzerinde çalışan, çeşitli siber güvenlik araçlarını bir araya getiren modüler bir Python uygulamasıdır. Ağ analizi, zafiyet testleri, bruteforce ve tarama işlemleri gibi birçok işlevi destekler.
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Linux-black?style=for-the-badge)
+![Field](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/IEEE-Student%20Project-blue?style=for-the-badge)
 
-## 🚀 Özellikler
+---
 
-- 📡 Ağ taraması (`network_scaner.py`)
-- 🔍 Port ve servis taraması (`nmapscanner.py`)
-- 🔑 SSH bruteforce saldırısı (`bruteforce_ssh.py`)
-- 🌐 DNS çözümleme (`dns_lookup.py`)
-- 📁 Dizin tarayıcı (`dirscanner.py`)
-- 💥 DoS saldırı modülü (`dosattack.py`)
-- 🛠️ MAC adresi değiştirici (`mac_changer.py`)
+## 📌 About
 
-## 🧰 Gereksinimler
+**SiberKit**, Linux üzerinde çalışan, temel **siber güvenlik araçlarını** tek bir çatı altında toplayan **modüler bir Python uygulamasıdır**.  
+Eğitim ve güvenlik farkındalığı amacıyla geliştirilmiştir.
 
-Gerekli kütüphaneleri kurmak için:
+---
+
+## 🚀 Features
+
+- 📡 Network scanning  
+- 🔍 Port & service scanning  
+- 🔑 SSH brute force testing  
+- 🌐 DNS lookup  
+- 📁 Directory scanning  
+- 💥 DoS simulation  
+- 🛠️ MAC address changer  
+
+---
+
+## ⚙️ Installation & Usage
 
 ```bash
 pip install -r requirements.txt
-
-⚙️ Kullanım
-Projenin ana dosyasını çalıştırmak için:
-
 python main.py
 
-📁 Yapı
+⚠️ Legal Notice
 
-siberkit/
-├── main.py
-├── service/
-│   ├── bruteforce_ssh.py
-│   ├── dirscanner.py
-│   ├── dns_lookup.py
-│   ├── dosattack.py
-│   ├── mac_changer.py
-│   └── ...
-├── requirements.txt
-└── README.md
+This project is for educational purposes only.
+Use only on authorized systems.
 
-
-📌 Notlar
-Bu proje eğitim amaçlıdır.
-
-Lütfen yasal sınırlar içinde kullanın.
-
-👨‍💻 Geliştirici
-IEEE Fırat Üniversitesi Öğrenci Topluluğu Siber Güvenlik Proje Ekibi
+👨‍💻 Developer
+IEEE Fırat University
+Cyber Security Project Team
