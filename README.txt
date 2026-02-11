@@ -1,35 +1,30 @@
-# 🛡️ SİBERKİT
+🛡️ SIBERKIT
+Linux-based modular Python project that brings together essential cyber security tools in a single framework.
 
-<p align="center">
-Linux üzerinde çalışan, temel siber güvenlik araçlarını tek bir çatı altında toplayan  
-modüler bir Python projesi.
-</p>
+ABOUT
+SiberKit is an educational cyber security toolkit designed for network analysis, security testing, and basic attack simulations.Its modular structure allows multiple security operations to be performed through one unified application.
 
----
+FEATURES
+📡 Detection of active devices on the local network
+🔍 Port and service scanning
+🔑 SSH brute force testing
+🌐 DNS lookup for domain names
+📁 Web directory scanning
+💥 DoS attack simulation
+🛠️ MAC address changing
 
-## 📌 <p align="center">PROJE HAKKINDA</p>
-
-SiberKit, ağ analizi ve güvenlik testleri için geliştirilen, eğitim amaçlı bir araç setidir.  
-Modüler yapısı sayesinde farklı siber güvenlik işlemleri tek bir uygulama üzerinden gerçekleştirilebilir.
-
----
-
-## 🚀 <p align="center">ÖZELLİKLER</p>
-
-- 📡 Yerel ağ üzerinde aktif cihazların tespit edilmesi  
-- 🔍 Port ve servis taraması  
-- 🔑 SSH servisleri için brute force testi  
-- 🌐 Alan adları için DNS çözümleme  
-- 📁 Web dizin taraması  
-- 💥 DoS saldırı simülasyonu  
-- 🛠️ MAC adresi değiştirme  
-
----
-
-## ⚙️ <p align="center">KULLANIM</p>
-
-Gerekli kütüphaneler yüklendikten sonra ana dosya çalıştırılarak modüller kullanılabilir.
-
-```bash
+REQUIREMENTS
+To install the required libraries, use the dependencies listed in the requirements file.
 pip install -r requirements.txt
+
+USAGE
+To run the project, execute the main application file.
 python main.py
+
+⚠️ LEGAL NOTICE
+This project is developed strictly for educational purposes.
+Any use on systems without explicit permission is illegal and the responsibility belongs to the user.
+
+👨‍💻 DEVELOPER
+IEEE FU Computer Society
+Cyber Security Project Team
