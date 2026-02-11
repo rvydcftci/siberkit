@@ -2,7 +2,8 @@
 Linux-based modular Python project that brings together essential cyber security tools in a single framework.
 
 ABOUT
-SiberKit is an educational cyber security toolkit designed for network analysis, security testing, and basic attack simulations.Its modular structure allows multiple security operations to be performed through one unified application.
+SiberKit is an educational cyber security toolkit designed for network analysis, security testing, and basic attack simulations. 
+Its modular structure allows multiple security operations to be performed through one unified application.
 
 FEATURES
 📡 Detection of active devices on the local network
