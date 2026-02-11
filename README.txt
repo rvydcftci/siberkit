@@ -1,34 +1,35 @@
-# 🛡️ SiberKit
+# 🛡️ SİBERKİT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IEEE-Student%20Project-blue?style=for-the-badge" />
+Linux üzerinde çalışan, temel siber güvenlik araçlarını tek bir çatı altında toplayan  
+modüler bir Python projesi.
 </p>
 
 ---
 
-## 🔍 About
-🐧 Linux üzerinde çalışan,  
-🧩 modüler yapıya sahip,  
-🛡️ temel siber güvenlik araçlarını bir araya getiren **Python tabanlı** bir eğitim projesi.
+## 📌 <p align="center">PROJE HAKKINDA</p>
+
+SiberKit, ağ analizi ve güvenlik testleri için geliştirilen, eğitim amaçlı bir araç setidir.  
+Modüler yapısı sayesinde farklı siber güvenlik işlemleri tek bir uygulama üzerinden gerçekleştirilebilir.
 
 ---
 
-## 🚀 Modules
-📡 Network Scan  
-🔍 Port & Service Scan  
-🔑 SSH Bruteforce  
-🌐 DNS Lookup  
-📁 Directory Scan  
-💥 DoS Simulation  
-🛠️ MAC Changer  
+## 🚀 <p align="center">ÖZELLİKLER</p>
+
+- 📡 Yerel ağ üzerinde aktif cihazların tespit edilmesi  
+- 🔍 Port ve servis taraması  
+- 🔑 SSH servisleri için brute force testi  
+- 🌐 Alan adları için DNS çözümleme  
+- 📁 Web dizin taraması  
+- 💥 DoS saldırı simülasyonu  
+- 🛠️ MAC adresi değiştirme  
 
 ---
 
-## ⚙️ Usage
+## ⚙️ <p align="center">KULLANIM</p>
+
+Gerekli kütüphaneler yüklendikten sonra ana dosya çalıştırılarak modüller kullanılabilir.
+
 ```bash
 pip install -r requirements.txt
 python main.py
