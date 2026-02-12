@@ -87,12 +87,17 @@ Its modular architecture allows different security tools to run under a single f
 ### 🔒 VPN Checker
 ![VPN Checker](images/14vpnchecker.jpeg)
 
+
 REQUIREMENTS
+
 To install the required libraries, use the dependencies listed in the requirements file.
+
 pip install -r requirements.txt
 
 USAGE
+
 To run the project, execute the main application file.
+
 python main.py
 
 ⚠️ LEGAL NOTICE
